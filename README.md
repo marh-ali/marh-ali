@@ -5,6 +5,7 @@ I’m Ali, an experienced leader with 3+ years of experience facilitating comple
 As a graduate student in Georgetown University’s Security Studies Program, I decided to further pursue a new passion for software engineering by taking 9 months off from my degree to complete a full-time Backend Development course co-developed by Amazon and BloomTech (fka Lambda School). I look forward to exploring career opportunities where my unique professional experience, academic credentials, and development skills will enhance team productivity and product scalability.
 
 📌 Tech Stack:
+
 Backend: Java, Python, C++,  AWS (DynamoDB, Lambda, API Gateway, E2, S3, IAM, CloudFormation), Spring Boot, SQL, Mockito, Dagger 
 Frontend: React, ReactNative, JavaScript, HTML, CSS
 Additional: Git CLI, database fundamentals, service-oriented architecture, design patterns, testing, debugging, deployment, algorithmic analysis
