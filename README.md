@@ -2,7 +2,6 @@ A graduate student in Georgetown University’s Security Studies Program now pur
 
 
 📌 Tech Stack:
-
-Backend: Java, Python, C++,  AWS (DynamoDB, Lambda, API Gateway, E2, S3, IAM, CloudFormation), Spring Boot, SQL, Mockito, Dagger 
-Frontend: React, ReactNative, JavaScript, HTML, CSS
-Additional: Git CLI, database fundamentals, service-oriented architecture, design patterns, testing, debugging, deployment, algorithmic analysis
+▸ Backend: Java, Python, C++, AWS (DynamoDB, Lambda, API Gateway, E2, S3, IAM, CloudFormation, CloudWatch), Spring Boot, SQL, Mockito, Dagger 
+▸ Frontend: JavaScript, HTML, CSS, React, ReactNative
+▸ Additional: Git CLI, database fundamentals, service-oriented architecture, design patterns, testing & test-driven development, debugging, deployment, algorithmic analysis
