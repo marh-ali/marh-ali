@@ -3,7 +3,7 @@ A graduate student in Georgetown University’s Security Studies Program now pur
 
 📌 Languages: Java, C++, Python, JavaScript, HTML, CSS,
 
-📌 Frameworks & Technlogies: AWS (DynamoDB, Lambda, API Gateway, E2, S3, IAM, CloudFormation, CloudWatch, Load Balancer, Elastic Container Service[ECS]), SQLite, Spring Boot, Mockito, Dagger, React, ReactNative
+📌 Frameworks & Technologies: AWS (DynamoDB, Lambda, API Gateway, E2, S3, IAM, CloudFormation, CloudWatch, Load Balancer, Elastic Container Service[ECS]), SQLite, Spring Boot, Mockito, Dagger, React, ReactNative
 
 📌 Other: Version Control (GitHub), database fundamentals, service-oriented architecture, microservice architecture, design patterns, testing & test-driven development, debugging, deployment, algorithmic analysis
 
