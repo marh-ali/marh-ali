@@ -9,4 +9,4 @@ Tech Stack:
 
 📌 Frameworks & Technologies: AWS (API Gateway, Cloud Formation, CloudWatch, DynamoDB, EC2, ECS, Lambda, Load Balancer, S3), Dagger, JUnit, Mockito, React, ReactNative, SQLite, Spring Boot
 
-📌 Other: CI/CD, code reviews, coding standards, complexity analysis, containerization, data structures, databases (relational/NoSQL), debugging, distributed multi-tier systems, documentation, microservice architecture, object-oriented design, problem solving, source control management, testing
+📌 Other: CI/CD, code reviews, coding standards, complexity analysis, containerization, data structures, databases (relational/NoSQL), debugging, distributed multi-tier systems, documentation, microservice architecture, object-oriented design, source control management, testing
