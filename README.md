@@ -4,8 +4,9 @@ Contact info: aam261@Georgetown.edu.
 
 
 Tech Stack:
+
 📌 Languages: Java, C++, Python, JavaScript, HTML, CSS,
 
-📌 Frameworks & Technologies: AWS (DynamoDB, Lambda, API Gateway, E2, S3, Cloud Formation, CloudWatch, Load Balancer, Elastic Container Service[ECS]), SQLite, Spring Boot, Mockito, Dagger, React, ReactNative
+📌 Frameworks & Technologies: AWS (API Gateway, Cloud Formation, CloudWatch, DynamoDB, EC2, ECS, Lambda, Load Balancer, S3), Dagger, JUnit, Mockito, React, ReactNative, SQLite, Spring Boot
 
-📌 Other: Version Control (GitHub), database fundamentals, service-oriented architecture, microservice architecture, design patterns, testing & test-driven development, debugging, deployment, algorithmic analysis
+📌 Other: CI/CD, code reviews, coding standards, complexity analysis, containerization, data structures, databases (relational/NoSQL), debugging, distributed multi-tier systems, documentation, microservice architecture, object-oriented design, problem solving, source control management, testing
