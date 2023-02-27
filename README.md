@@ -2,6 +2,9 @@ An experienced policy professional now pursuing a new passion for software engin
 
 
 Technical skills:
+
 📌 Programming languages: Java, Python, C++
+
 📌 Frameworks & Technologies: AWS (API Gateway, CloudFormation, CloudWatch, DynamoDB, EC2, ECS, Lambda, Load Balancer, S3), Dagger, Docker, Git, JUnit, 📌 Mockito, Redis, PostgreSQL, ReactJS, React Native, Spring Boot
+
 📌 Other: Agile workflow, complexity analysis, containerization, data structures & algorithms, databases (relational/NoSQL), debugging, design patterns, distributed systems, microservice architecture, OOP, problem-solving, testing, version control
