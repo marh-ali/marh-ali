@@ -2,7 +2,7 @@ Seasoned policy expert turned software engineer, my career embodies a unique ble
 
 During a Master's gap year at Georgetown University, I honed my skills through a 9-month, intensive Backend Development course co-developed by Amazon and BloomTech. I gained proficiency in Java, object-oriented programming, API development, AWS applications, and coding best practices.
 
-Now, I leverage my diverse skillset working on backend and infrastructure development for a non-profit organization while remaining engaged in national security discussions in Washington DC, bridging the gap between policy and technology. My policy background enriches my software solutions, making them practical and impactful. I am driven by a love for embracing challenges and creating meaningful change.
+Now, I leverage my diverse skillset working on backend and infrastructure development for a non-profit organization while remaining engaged in national security issues in Washington DC, bridging the gap between policy and technology. My policy background enriches my software solutions, making them practical and impactful. I am driven by a love for embracing challenges and creating meaningful change.
 
 
 Technical skills:
