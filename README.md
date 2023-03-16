@@ -6,6 +6,7 @@ Now, I leverage my diverse skillset working on backend and infrastructure develo
 
 
 Technical skills:
+
 📌  Programming languages: Java, Python, C++, JavaScript
 
 📌 Frameworks & Technologies: AWS (API Gateway, CloudFormation, CloudWatch, DynamoDB, EC2, ECS, Lambda, Load Balancer, S3), Dagger, Docker, Git, JUnit, Mockito, Redis, PostgreSQL, ReactJS, React Native, Spring Boot
