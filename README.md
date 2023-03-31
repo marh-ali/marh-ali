@@ -7,13 +7,13 @@ Now, I leverage my diverse skillset working on cutting-edge software projects wh
 
 Technical skills:
 
-📌 Programming languages: Java, Python, C++
+📌 **Programming languages:** Java, Python, C++
 
-📌 Backend Technologies: Spring Boot, PostgreSQL, Hibernate, JPA, JSON, Redis, Dagger
+📌 **Backend Technologies:** Spring Boot, PostgreSQL, Hibernate, JPA, JSON, Redis, Dagger
 
-📌 Microservices and Cloud: Kubernetes, Docker, AWS (API Gateway, CloudWatch, DynamoDB, ECS, Lambda, S3)
+📌 **Microservices and Cloud:** Kubernetes, Docker, AWS (API Gateway, CloudWatch, DynamoDB, ECS, Lambda, S3)
 
-📌 Development Tools, Testing, and Frontend: Git, Jira, JUnit, Mockito, REST Assured, React
+📌 D**evelopment Tools, Testing, and Frontend:** Git, Jira, JUnit, Mockito, REST Assured, React
 
-📌 Foreign Languages: Arabic (fluent), French (intermediate), Farsi (intermediate)
+📌 **Foreign Languages:** Arabic (fluent), French (intermediate), Farsi (intermediate)
 
