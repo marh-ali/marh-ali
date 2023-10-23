@@ -1,11 +1,10 @@
 # Ali Marhoon :rocket:
 
-Hey there, I'm Ali! :wave: A Software Engineer who thrives at the intersection of technology and impactful change. :earth_americas:
+Hey there, I'm Ali! :wave: A Software Engineer who thrives at the intersection of technology, policy, and impactful change. :earth_americas:
 
 ---
   
 :link: **LinkedIn:** [Here](https://www.linkedin.com/in/marhoon-ali/)  
-:earth_americas: **Portfolio:** [alimarhoon.com](https://alimarhoon.com)
 
 ---
 
@@ -19,9 +18,8 @@ Hey there, I'm Ali! :wave: A Software Engineer who thrives at the intersection o
 ## :computer: Technical Experience
 
 - **Greenway Health** :seedling: *(Present)*
-  - Champion of Angular, .NET, and SQL :dart:
-  - Code reviewer extraordinaire :mag:
-  - Terraform wizard :mage:
+  - Champion of Angular, .NET, SQL, and AWS :dart:
+  - Building big-data infra for healthcare :mag:
   
 - **BloomTech Labs** :cherry_blossom: *(2022 - 2023)*
   - Spring Boot and PostgreSQL guru :brain:
@@ -30,7 +28,6 @@ Hey there, I'm Ali! :wave: A Software Engineer who thrives at the intersection o
 - **BloomTech & Amazon** :shopping_cart: *(2022)*
   - RESTful API maestro :musical_note:
   - DynamoDB dynamo :zap:
-  - Green initiatives supporter :leaves:
 
 ---
 
@@ -45,7 +42,7 @@ Hey there, I'm Ali! :wave: A Software Engineer who thrives at the intersection o
 
 ## :file_folder: Personal Projects
 
-- **Southeast Rides** :bike: [GitHub](https://github.com/marh-ali/southeastRides-neo4j) [Blog](https://www.alimarhoon.com/technical-blog)
+- **Southeast Rides** :bike: [GitHub](https://github.com/marh-ali/southeastRides-neo4j) 
   - A central hub for cycling enthusiasts built with React Native, Node.js, and Neo4j.
 
 ---
